@@ -1,1 +1,16 @@
 julia 0.4
+IJulia
+RCall
+PyPlot
+Distributions
+Plots
+HypothesisTests
+DataFrames
+StatsBase
+GLM
+Distances
+MLBase
+Clustering
+MultivariateStats
+KernelDensity
+Gadfly
