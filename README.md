@@ -2,9 +2,19 @@
 
 [![Build Status](https://travis-ci.org/diegozea/AnalisisDeDatosCualitativos.jl.svg?branch=master)](https://travis-ci.org/diegozea/AnalisisDeDatosCualitativos.jl)
 
+### Material
+
+Las *notebooks* se encuentran en la carpeta `material`
+
 - **Unidad I.** *Variables, distribuciones y pruebas de hipótesis.*
  - [Variables aleatorias y funciones de distribución.](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/master/material/I.1.VariablesAleatoriasyFuncionesDeDistribucion.ipynb)
  - [Análisis descriptivo de datos.](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/96630dec6d6b0583e3793acf0fbda8413b03c210/material/I.2.AnalisisDescriptivoDeDatos.ipynb)
+
+### Trabajos prácticos
+
+Las *notebooks* se encuentran en la carpeta `trabajo`
+
+- [TPI](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/fc9f5ed5f984672e17150f5ebd32e29ad3f85220/trabajos/TPI.ipynb)
 
 ### Material Extra
 
