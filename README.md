@@ -45,3 +45,15 @@ Pkg.clone("https://github.com/tbreloff/PyPlot.jl.git")
 Pkg.checkout("PyPlot", "tb_dispfix")
 Pkg.update()
 ```
+
+### [XKCD](http://xkcd.com/)
+
+- [Heatmap](https://www.explainxkcd.com/wiki/index.php/1138:_Heatmap)
+- [Significant](https://www.explainxkcd.com/wiki/index.php/882:_Significant)
+- [P-Values](https://www.explainxkcd.com/wiki/index.php/1478:_P-Values)
+- [Null Hypothesis](https://www.explainxkcd.com/wiki/index.php/892:_Null_Hypothesis)
+- [Extrapolating](Extrapolating)
+- [Correlation](https://www.explainxkcd.com/wiki/index.php/552:_Correlation)
+- [Conditional Risk](https://www.explainxkcd.com/wiki/index.php/795:_Conditional_Risk)
+- [Cell Phones](https://www.explainxkcd.com/wiki/index.php/925:_Cell_Phones)
+- [Frequentists vs. Bayesians](https://www.explainxkcd.com/wiki/index.php/1132:_Frequentists_vs._Bayesians)
