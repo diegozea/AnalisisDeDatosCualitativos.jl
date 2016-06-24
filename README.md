@@ -15,7 +15,6 @@ Las *notebooks* se encuentran en la carpeta `material`
  - [Planteamiento del problema de regresión en forma general.](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/master/material/II.1.Regresion.ipynb)
  - [Regresión Lineal Múltiple por el método de los Mínimos Cuadrados.](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/master/material/II.2.RegresionLinealMultiple.ipynb)
  - [Análisis de Regresión Logística.](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/master/material/II.3.RegresionLogistica.ipynb)
- - []()
 
 ### Trabajos prácticos
 
