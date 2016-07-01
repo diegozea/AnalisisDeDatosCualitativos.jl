@@ -18,3 +18,5 @@ DecisionTree
 ScikitLearn
 Bootstrap
 RDatasets
+DiscriminantAnalysis
+FreqTables
