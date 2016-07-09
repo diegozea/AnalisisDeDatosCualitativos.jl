@@ -28,7 +28,8 @@ Las *notebooks* se encuentran en la carpeta `material`
 Las *notebooks* se encuentran en la carpeta `trabajo`
 
 - [TPI](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/fc9f5ed5f984672e17150f5ebd32e29ad3f85220/trabajos/TPI.ipynb)
-
+- [**Trabajo Final**](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/master/trabajos/TrabajoFinal.ipynb)  
+  
 ### Material Extra
 
 #### Julia
