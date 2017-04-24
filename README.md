@@ -8,7 +8,7 @@ Las *notebooks* se encuentran en la carpeta `material`
 
 - **Unidad I.** *Variables, distribuciones y pruebas de hipótesis.*
  - [Variables aleatorias y funciones de distribución.](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/master/material/I.1.VariablesAleatoriasyFuncionesDeDistribucion.ipynb)  
- - [Análisis descriptivo de datos.](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/96630dec6d6b0583e3793acf0fbda8413b03c210/material/I.2.AnalisisDescriptivoDeDatos.ipynb)  
+ - [Análisis descriptivo de datos.](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/master/material/I.2.AnalisisDescriptivoDeDatos.ipynb)  
  - [Prueba de Hipótesis. Verificación estadística de hipótesis estadística.](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/master/material/I.3.PruebaDeHipotesis.ipynb)  
  - [Independencia de variables y medidas de asociación.](http://nbviewer.jupyter.org/github/diegozea/AnalisisDeDatosCualitativos.jl/blob/master/material/I.4.IndependenciaDeVariablesyMedidasDeAsociacion.ipynb)  
 - **Unidad II.** Regresiones y reducción de dimensionalidad.  
