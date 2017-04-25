@@ -1,9 +1,11 @@
-julia 0.4
+julia 0.5
+PyCall
 IJulia
 RCall
 PyPlot
 Distributions
 Plots
+StatPlots
 HypothesisTests
 DataFrames
 StatsBase
